@@ -1,0 +1,50 @@
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.exe.config
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.exe
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.pdb
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.Properties.Resources.resources
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.exe
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.pdb
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.Cine.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.exe.config
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\bin\Debug\LABORATORIO.pdb
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csprojAssemblyReference.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.Cine.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.Properties.Resources.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csproj.GenerateResource.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador\LABORATORIO\obj\Debug\LABORATORIO.pdb
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe.config
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.pdb
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csprojAssemblyReference.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Cine.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Properties.Resources.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.GenerateResource.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.pdb
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe.config
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.pdb
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Cine.resources
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Properties.Resources.resources
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.exe
+C:\Users\Felipe\Desktop\nivelacion TECNICATURA\SEGUNDO CUATRIMESTRE\UTN Segundo Cuatrimestre\Laboratorio II\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.pdb
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe.config
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\bin\Debug\LABORATORIO.pdb
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csprojAssemblyReference.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Cine.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.Properties.Resources.resources
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.GenerateResource.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.exe
+C:\Users\causa\OneDrive\Escritorio\Segundo CuatriMestre\Laboratorio 2\TPI\TP Integrador II Mela\TP Integrador II\LABORATORIO\obj\Debug\LABORATORIO.pdb
